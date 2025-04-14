@@ -6,7 +6,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Universidad Politecnica Salesiana.\
 ✍️ &nbsp;In my free time, I like watch series or play the guitar.\
-✉️ &nbsp;You can shoot me an email at jsaquicela26@gmail.com I'll try to respond as soon as I can.
+✉️ &nbsp;You can shoot me an email at jonnaferna@gmail.com I'll try to respond as soon as I can.
 
 
 ### 🛠 &nbsp;Tech Stack
