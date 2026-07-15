@@ -1,19 +1,24 @@
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Jonnathan Saquicela</h2>
 
-
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
-🎓 &nbsp;I'm currently studying Computer Science and Mathematics at the Universidad Politecnica Salesiana.\
-✍️ &nbsp;In my free time, I like watch series or play the guitar.\
-✉️ &nbsp;You can shoot me an email at jonnaferna@gmail.com I'll try to respond as soon as I can.
-
+💡 &nbsp; I'm a Full Stack Web Developer who loves building clean, scalable solutions and exploring new technologies.\
+🎓 &nbsp; I'm about to finish my Computer Science thesis at Universidad Politécnica Salesiana! 🎉\
+💻 &nbsp; Currently diving deep into C# and .NET, and working on a personal expense tracking app.\
+✍️ &nbsp; When I'm not writing code or customizing my terminal, you'll probably find me watching a good series or playing the guitar. 🎸\
+✉️ &nbsp; You can shoot me an email at jsaquicela26@gmail.com. I'll try to respond as soon as I can!
 
 ### 🛠 &nbsp;Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
