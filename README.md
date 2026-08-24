@@ -6,7 +6,7 @@
 🎓 &nbsp; I recently graduated from Universidad Politécnica Salesiana! 🎉\
 🏗️ &nbsp; Co-founder and Tech Lead at **ZeroStack**, focusing on crafting scalable systems with Clean Architecture and SOLID principles.\
 💻 &nbsp; Currently building **PocketCap** (an offline-first expense tracker) and exploring mobile gamification with Flutter.\
-✍️ &nbsp; When I'm not writing code, customizing my WSL Ubuntu terminal, or using Antigravity, you'll probably find me watching a good series or playing the guitar. 🎸\
+✍️ &nbsp; When I'm not writing code, you'll probably find me watching a good series or playing the guitar. 🎸\
 ✉️ &nbsp; You can shoot me an email at jsaquicela26@gmail.com. I'll try to respond as soon as I can!
 
 ### 🛠 &nbsp;Tech Stack
