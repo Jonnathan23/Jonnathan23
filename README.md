@@ -2,10 +2,11 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 
-💡 &nbsp; I'm a Full Stack Web Developer who loves building clean, scalable solutions and exploring new technologies.\
-🎓 &nbsp; I'm about to finish my Computer Science thesis at Universidad Politécnica Salesiana! 🎉\
-💻 &nbsp; Currently diving deep into C# and .NET, and working on a personal expense tracking app.\
-✍️ &nbsp; When I'm not writing code or customizing my terminal, you'll probably find me watching a good series or playing the guitar. 🎸\
+💡 &nbsp; I'm a Full Stack Web Developer & Computer Science Engineer who loves building clean, scalable solutions.\
+🎓 &nbsp; I recently graduated from Universidad Politécnica Salesiana! 🎉\
+🏗️ &nbsp; Co-founder and Tech Lead at **ZeroStack**, focusing on crafting scalable systems with Clean Architecture and SOLID principles.\
+💻 &nbsp; Currently building **PocketCap** (an offline-first expense tracker) and exploring mobile gamification with Flutter.\
+✍️ &nbsp; When I'm not writing code, customizing my WSL Ubuntu terminal, or using Antigravity, you'll probably find me watching a good series or playing the guitar. 🎸\
 ✉️ &nbsp; You can shoot me an email at jsaquicela26@gmail.com. I'll try to respond as soon as I can!
 
 ### 🛠 &nbsp;Tech Stack
@@ -13,17 +14,17 @@
 <table>
   <tr>
     <td valign="top" width="50%">
-      <strong>Frontend:</strong><br/>
+      <strong>Frontend & Mobile:</strong><br/>
       <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
+      <img src="https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" />
       <img src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
       <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />
-      <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-      <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
-      <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" />
     </td>
     <td valign="top" width="50%">
       <strong>Backend & Runtimes:</strong><br/>
       <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" />
+      <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" />
       <img src="https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white" />
       <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" />
       <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
@@ -31,14 +32,17 @@
   </tr>
   <tr>
     <td valign="top" width="50%">
-      <strong>Databases & Devops:</strong><br/>
+      <strong>Databases & Infrastructure:</strong><br/>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+      <img src="https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white" />
       <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
+      <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
     </td>
     <td valign="top" width="50%">
-      <strong>Tools & Version Control:</strong><br/>
+      <strong>Tools, OS & Workflow:</strong><br/>
+      <img src="https://img.shields.io/badge/pnpm-%23f69220.svg?style=for-the-badge&logo=pnpm&logoColor=white" />
       <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-      <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
+      <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
       <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
     </td>
   </tr>
